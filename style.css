@@ -10,7 +10,7 @@
 }
 
 body {
-  background-image: url(assets/bg-image.jpg);
+  background-image: linear-gradient(rgba(87, 56, 36, 0.5), rgba(87, 56, 36, 0.5)), url(assets/bg-image.jpg);
   background-size: cover;
 }
 
